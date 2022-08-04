@@ -52,14 +52,14 @@ class _HomePageState extends State<HomePage> {
     "Play rock music",
     "Stop",
     "What this app can do"
-    "Pause",
+        "Pause",
     "Play 102 FM",
     "Play 107 Fm",
     "Play next",
     "Play pop music",
     "Play previous",
     "How old are you",
-    "Who is your boss"   
+    "Who is your boss"
   ];
 
   final AudioPlayer _audioPlayer = AudioPlayer();
