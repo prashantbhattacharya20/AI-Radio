@@ -47,19 +47,19 @@ class _HomePageState extends State<HomePage> {
 
   bool _isplaying = false;
   final sugg = [
+    "Can you help me",
     "Play",
-    "Stop",
     "Play rock music",
+    "Stop",
+    "What this app can do"
+    "Pause",
     "Play 102 FM",
     "Play 107 Fm",
-    "Play pop music",
-    "Pause",
-    "Play previous",
     "Play next",
+    "Play pop music",
+    "Play previous",
     "How old are you",
-    "Who is your boss",
-    "Can you help me",
-    "What this app can do"
+    "Who is your boss"   
   ];
 
   final AudioPlayer _audioPlayer = AudioPlayer();
