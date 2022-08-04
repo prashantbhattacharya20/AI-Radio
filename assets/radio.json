@@ -1,0 +1,102 @@
+{
+    "radios": [
+        {
+            "id": 1,
+            "name": "91.1",
+            "tagline": "Rag Rag Mein Daude City",
+            "color": "0xffa11431",
+            "desc": "Radio City 91.1 is the first India's national private fm radio stations. It broadcasts in most of 40 cities on 91.1 FM and has 69 millions radio listeners",
+            "url": "https://prclive1.listenon.in/",
+            "icon": "https://www.radiocity.in/assets/images/RC-logo-1.png",
+            "image": "https://wallpapercave.com/wp/wp6971977.jpg",
+            "lang": "Hindi",
+            "category": "jazz",
+            "disliked": false,
+            "order": 1
+        },
+        {
+            "id": 2,
+            "name": "92.7",
+            "tagline": "Dhun Badal Ke Toh Dekho",
+            "color": "0xff221420",
+            "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+            "url": "http://sc-bb.1.fm:8017/",
+            "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+            "image": "https://st1.bollywoodlife.com/wp-content/uploads/2018/10/Dilwale-Dulhania-Le-Jayenge5.jpg?impolicy=Medium_Widthonly&w=600",
+            "lang": "Hindi",
+            "category": "pop",
+            "disliked": false,
+            "order": 2
+        },
+        {
+            "id": 3,
+            "name": "94",
+            "tagline": "Today's Hits",
+            "color": "0xff04080b",
+            "desc": "Listen to top English hits of Today's.",
+            "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3",
+            "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+            "lang": "English",
+            "category": "rock",
+            "disliked": false,
+            "order": 3
+        },
+        {
+            "id": 4,
+            "name": "95.0",
+            "tagline": "Colors of Sound",
+            "color": "0xff0d487d",
+            "desc": "Rangeela Radio is India's 1st positive thoughts Internet Radio station from Kolhapur Maharashtra.",
+            "url": "https://stream-35.zeno.fm/38q20zhhx4zuv?zs=Y3j36DQMSCKoXCzwLP-sug",
+            "icon": "https://play-lh.googleusercontent.com/sJ0MJJlCcp7y5URU2B8pqjZIWMwDIzlxJyG0qLQbvgCSsw_93URZPoqmPQBIg3U8Lg",
+            "image": "https://www.pinkvilla.com/imageresize/aashiqui_2_main.jpg?width=565&height=565&format=webp&t=pvorg&cropTop=true",
+            "lang": "Hindi",
+            "category": "pop",
+            "disliked": false,
+            "order": 4
+        },
+        {
+            "id": 5,
+            "name": "98.3",
+            "tagline": "Mirchi Sun Ne Wale Always Khush!",
+            "color": "0xff27383e",
+            "desc": "Radio Mirchi is a nationwide network of private FM radio stations in India. It is owned by the EntertainmentNetwork India Ltd, which is one of the subsidiaries of The Times Group.",
+            "url": "http://peridot.streamguys.com:7150/Mirchi",
+            "icon": "https://onlineradiofm.in/assets/image/radio/180/radio-mirchi11111.jpg",
+            "image": "https://c4.wallpaperflare.com/wallpaper/103/958/363/4k-deepika-padukone-bajirao-mastani-jewellery-wallpaper-preview.jpg",
+            "lang": "Hindi",
+            "category": "rock",
+            "disliked": false,
+            "order": 5
+        },
+        {
+            "id": 6,
+            "name": "102",
+            "tagline": "Play On!",
+            "color": "0xffa06a37",
+            "desc": "Listen to the top Hollywood chart busters.",
+            "url": "http://node-14.zeno.fm/cm1fkgbv1ceuv?rj-ttl=5&rj-token=AAABa7Pm__WhrF8jIJ36of_AC5C-TeMcqPiHC5BJB1j1JxkowiWAyQ",
+            "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+            "image": "https://cdn.wallpapersafari.com/59/22/7ohUZd.jpg",
+            "lang": "English",
+            "disliked": false,
+            "category": "hip-hop",
+            "order": 6
+        },
+        {
+            "id": 7,
+            "name": "107",
+            "tagline": "Classic Retro Hits",
+            "color": "0xff090909",
+            "desc": "Hits Of Bollywood is an internet radio station that was founded to serve the Indian community spread around the world. It is on air 24/7 playing the best Bollywood hits with no interruptions.",
+            "url": "https://stream-14.zeno.fm/8ty8szwpwfeuv?zs=sxIgNy9NQIG7j4fTCP3kzA",
+            "icon": "https://onlineradiofm.in/assets/image/radio/180/hitsofbollywood.png",
+            "image": "https://i.pinimg.com/originals/7f/f6/13/7ff613ed815f1eb56a90794ec64eecfe.jpg",
+            "lang": "Hindi",
+            "category": "classic",
+            "disliked": false,
+            "order": 7
+        }
+    ]
+}
