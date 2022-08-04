@@ -58,7 +58,8 @@ class _HomePageState extends State<HomePage> {
     "Play next",
     "How old are you",
     "Who is your boss",
-    "Can you help me"
+    "Can you help me",
+    "What this app can do"
   ];
 
   final AudioPlayer _audioPlayer = AudioPlayer();
