@@ -86,3 +86,5 @@ This app was created with the help of the following resources:
 
 * **YouTube Tutorial**: [Build an AI - Powered Voice Assistant Flutter Radio App | Android | iOS | Web](https://www.youtube.com/watch?v=p4xh7zTt6i0&t=8s) by [Codepur](https://www.youtube.com/@HelloCodepur)
 * **Instructor**: [Pawan Kumar](https://github.com/iampawan)
+
+![GitHub forks](https://img.shields.io/github/forks/prashantbhattacharya20/AI-Radio?style=social)
