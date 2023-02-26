@@ -54,7 +54,7 @@ This app uses the following dependencies:
 * **[velocity_x](https://pub.dev/packages/velocity_x): ^3.5.1**: a library for building responsive and fast UIs in Flutter.
 * **[audioplayers](https://pub.dev/packages/audioplayers)**: ^1.0.1: a package for playing audio in Flutter.
 * **[google_fonts](https://pub.dev/packages/google_fonts)**: ^3.0.1: a package for using custom fonts in Flutter.
-* **[alan_voice](https://pub.dev/packages/alan_voice)**: ^3.0.0: a package for integrating Alan AI voice assistant in Flutte.
+* **[alan_voice](https://pub.dev/packages/alan_voice)**: ^3.0.0: a package for integrating Alan AI voice assistant in Flutter.
 
 ## Usage
 To use the "AI-Radio App", follow these steps:
